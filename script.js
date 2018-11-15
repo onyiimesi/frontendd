@@ -1,0 +1,1 @@
+$('.notification-bar').delay(1000).slideDown().delay(4000).slideUp();
